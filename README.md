@@ -31,8 +31,10 @@ I’m a believer in continuous improvement, proactive communication, and inclusi
 ### 📈 GitHub Stats
 
 
-![ederson-moraes's Stats](https://github-readme-stats.vercel.app/api?username=ederson-moraes&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
-![ederson-moraes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ederson-moraes&theme=shades-of-purple&show_icons=true&hide_border=false&layout=compact)
+![ederson-moraes’s GitHub stats](https://github-readme-stats-ederson-moraes-projects.vercel.app/api?username=ederson-moraes&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
+![ederson-moraes's Top Languages](https://github-readme-stats-ederson-moraes-projects.vercel.app/api/top-langs/?username=ederson-moraes&theme=shades-of-purple&show_icons=true&hide_border=false&layout=compact)
+
+
   
 
 ---
