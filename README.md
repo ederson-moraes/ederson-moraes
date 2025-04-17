@@ -1,4 +1,4 @@
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ederson-moraes&theme=shades-of-purple&card_width=540&card_height=250" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ederson-moraes&theme=shades-of-purple&card_width=540&card_height=250)](https://git.io/streak-stats)
 
 <h1 align="center">Hi 👋, I'm Ederson Moraes</h1>
 <h3 align="center">Scrum Master | Web Developer | Agile Enthusiast</h3>
@@ -27,10 +27,10 @@ I’m a believer in continuous improvement, proactive communication, and inclusi
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ederson-moraes&show_icons=true&theme=radical" alt="Ederson's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederson-moraes&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
+![ederson-moraes's Stats](https://github-readme-stats.vercel.app/api?username=ederson-moraes&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
+![ederson-moraes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ederson-moraes&theme=shades-of-purple&show_icons=true&hide_border=false&layout=compact)
+  
 
 ---
 
