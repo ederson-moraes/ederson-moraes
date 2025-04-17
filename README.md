@@ -1,4 +1,7 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ederson-moraes&theme=shades-of-purple&card_width=540&card_height=250)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-kappa.vercel.app?user=ederson-moraes&theme=shades-of-purple" alt="GitHub Streak" /></a>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Ederson Moraes</h1>
 <h3 align="center">Scrum Master | Web Developer | Agile Enthusiast</h3>
