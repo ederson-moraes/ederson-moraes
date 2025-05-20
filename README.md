@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-git-d-e318f7-ederson-moraes-projects.vercel.app?user=ederson-moraes&theme=shades-of-purple" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats](https://github-readme-streak-stats-git-d-e318f7-ederson-moraes-projects.vercel.app"><img src="https://github-readme-streak-stats-git-d-e318f7-ederson-moraes-projects.vercel.app?user=ederson-moraes&theme=shades-of-purple" alt="GitHub Streak" /></a>
 </div>
 
 
