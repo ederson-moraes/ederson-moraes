@@ -1,4 +1,9 @@
-[![GitHub Streak](https://github-readme-streak-stats-git-d-e318f7-ederson-moraes-projects.vercel.app?user=ederson-moraes&theme=shades-of-purple)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-git-d-e318f7-ederson-moraes-projects.vercel.app?user=ederson-moraes&theme=shades-of-purple" alt="GitHub Streak" />
+  </a>
+  
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Ederson Moraes</h1>
